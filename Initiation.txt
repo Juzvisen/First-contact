@@ -1,0 +1,9 @@
+# Git-ing started with Git 
+
+# Zabavni projek učenja Git-a 
+
+# git status
+
+# git add fileName
+
+# git commit -m "Message to be stored with commit"
