@@ -15,3 +15,5 @@ Initiation
 # git add .
 
 # git restore --staged file <file>
+
+Some text added to see the changes
