@@ -1,0 +1,437 @@
+.body{
+	font-family:"Open Sans", Arial, sans-serif;
+	font-weight:300;
+	line-height:1.6em;
+	font-size: 1.4em;	
+}
+
+
+.topbar {
+	background-color: #002e5b;
+}
+
+.topbar p{
+	margin: 0;
+	padding: 0.5rem 0;
+	color:#f1f6ff;
+	font-family: Arial;
+	font-size: 0.7rem;
+}
+
+.topbar i {
+	margin-right: 0.3rem;
+	color: #fdd428;
+	font-size: 0.5rem;
+}
+
+.navbar-default {
+	background-color: #ffffff;
+	text-transform: uppercase;
+}
+
+.nav-link {
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 0.9rem; 
+	font-weight: 600;
+	color:#617C96;
+}
+
+li > .active {
+	font-weight: bolder !important;
+}
+
+.dropdown-menu {
+	font-size: 0.8rem;
+	padding: 0rem;
+	border: none;
+}
+.dropdown-item{
+	text-transform: uppercase;
+}
+
+.dropdown-item:hover {
+	color: #ffffff;
+	background-color: #002e5b;
+}
+
+/*Slider*/
+
+.carousel-caption h1{
+	color:#002e5b;
+	float: left;
+	margin-top: -14rem;
+	font-size: 4.5rem;
+	font-weight: 700;
+	line-height: 4.8rem;
+	text-transform: uppercase;
+	font-family: Montserrat, sans-serif;
+}
+
+.carousel-caption p{
+	float:left;
+	margin-top: -8rem;
+	color:#002e5b;
+	font-family:"Open Sans", Arial, sans-serif;
+	font-size: 1.4rem;
+	font-weight: 400;
+	line-height: 1.4rem;
+}
+/*End slider*/
+
+/*Best business*/
+
+#best{
+	background-color:#002e5b;
+	padding-top: 5rem;
+	padding-bottom: 3.5rem;
+}
+
+#best h3{
+	color: #ffffff;
+	font-family:Montserrat, sans-serif; 
+	font-size:1.5rem;
+	font-weight:600;
+	text-transform:uppercase;
+	line-height: 1.7rem;
+}
+
+#best p {
+	color:#9CAEBF;
+	font-family:"Open Sans", Arial, sans-serif;
+	font-size: 0.9rem;
+	font-weight:300;
+	line-height: 1.4rem; 
+	padding-top: 1rem;
+}
+
+.btn-primary {
+	font-size: 1rem;
+	margin-top: 2rem;
+	color:#2F4C51;
+	border-color:#FDD428;
+	background-color:#FDD428;
+}
+
+.btn-primary:hover {
+	color:#2F4C51;
+	background-color:#FDD428;
+	border-color:#FDD428;
+}
+
+/* End best business*/
+
+/*Our services*/
+
+#services h2{
+	color: #002e5b;
+	font-size: 1.9rem;
+	font-family:Montserrat, sans-serif;
+	font-weight:600;
+	text-transform: uppercase; 
+	line-height:1.4rem;
+	margin-top:5rem;
+	margin-bottom: 1.3rem;
+}
+
+#services p{
+	color: #656565;
+	font-size: 0.9rem;
+	font-family:"Open Sans", Arial, sans-serif;
+	font-weight:300; 
+	line-height:1.4rem;
+	margin-bottom:3rem;
+}
+
+.info-icon {
+	display:inline-block;
+	float: left;
+    color: #FFEB3B;
+    font-size: 1.9rem;
+    min-width: 3.1rem;
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    background: #002e5b;
+    width: 4.5rem;
+    height: 4.5rem;
+    padding-top: 1.3rem;
+    border: 0.06rem solid #002e5b;
+    border-radius: 50%;
+}
+
+.info-in h3{
+	color:#002e5b;
+	font-size:1.1rem;
+	font-family:Montserrat, sans-serif;
+	font-weight: 600;
+	line-height:1.8rem; 
+	margin-bottom: 0.5rem;
+}
+
+.info-in p{
+	color:#656565;
+	font-size:0.9rem;
+	font-family: "Open Sans", Arial, sans-serif;
+	font-weight: 300;
+	line-height: 1.4rem;
+	text-align: left;
+}
+
+/*End our services*/
+
+/*Our organization*/
+
+#organization {
+	background: #f6f6f6;
+    padding: 3.8rem;
+    color: #484848;
+    font-size: 0.9rem;
+	font-family:"Open Sans", Arial, sans-serif;
+	font-weight:300; 
+	line-height:1.4rem;
+}
+
+.title h2{
+	color: #002e5b;
+	font-size: 1.9rem;
+	font-family:Montserrat, sans-serif;
+	font-weight:600;
+	text-transform: uppercase; 
+	line-height:1.4rem;
+	margin-top: 1.3rem;
+	margin-bottom: 1.3rem;
+}
+
+.title p{
+	margin-bottom: 2.5rem;
+}
+
+.about-text p{
+	margin-bottom: 2rem;
+}
+
+.angle {
+	margin:0;
+	padding: 0;
+}
+
+.angle li{
+	margin-bottom: 0.6rem;
+	list-style: none;
+}
+
+.angle i {
+    margin-right: 1rem;
+    font-weight: 700;
+    color: #29448e;
+    border: 0.06rem solid;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.7rem;
+    border-radius: 50%;
+    height: 1.3rem;
+    width: 1.3rem;
+}
+
+/*End our organization*/
+
+/*Programes*/
+
+#programes {
+	padding:3.8rem 0 3rem 0;
+}
+
+#programes h3{
+	color:#002e5b;
+	font-family:Montserrat, sans-serif;
+	font-size:1.5rem;
+	font-weight:600;
+	line-height:1.7rem;
+	margin:1.3rem 0rem 1.3rem;  
+}
+
+#programes p{
+	color: #656565;
+	font-size: 0.9rem;
+	font-family:"Open Sans", Arial, sans-serif;
+	font-weight: 300;
+	line-height:1.4rem; 
+}
+.card-header {
+	background-color:white;
+	border-color:rgb(101, 101, 101);
+}
+
+.card-header a{
+	color:#656565;
+	font-size:0.8rem;
+	font-family:Montserrat, sans-serif;
+	font-weight:600;
+	line-height:1.8rem;
+}
+
+.card-link i {
+	font-size:1rem;
+    line-height:1.1rem;
+    width:1.1rem;
+    height:1.1rem;
+    margin-right:0.5rem;
+    color:#A0A0A0;
+    text-align: center;
+    border-radius:50%;
+    margin-left:0.4rem;
+    font-weight:bold;
+}
+
+.card-body {
+	color: #656565;
+	font-size: 0.9rem;
+	font-family:"Open Sans", Arial, sans-serif;
+	font-weight: 300;
+	line-height:1.4rem; 
+}
+
+blockquote {
+	background-color:#efefef;
+	color:#666666;
+	font-family:"Noto Serif", serif;
+	font-size:0.9rem;
+	line-height:1.3rem;
+	font-weight:400;
+	font-style:italic; 
+	padding: 1rem;
+}
+
+#programes img {
+	border: 0.06rem solid #cccccc;
+    border-radius: 9.4rem;
+    height: 4.7rem;
+    padding: 0.2rem;
+    width: 4.7rem;
+    margin-right: 1rem;
+}
+
+.name {
+	color:#002e5b;
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size:1rem;
+	font-weight: 300;
+}
+
+.post {
+	color:#656565;
+	font-family:"Open Sans", Arial, sans-serif;
+	font-size:0.8rem;
+	font-weight:300;
+	line-height:1.4rem; 
+}
+
+/*End programes*/
+
+/*Footer*/
+
+#contact{
+	padding-top:3.1rem;
+	background-color:#002e5b;
+	color:#f8f8f8; 
+}
+
+.titles{
+	color:#fdd428;
+	font-size:0.9rem;
+	font-family:Montserrat, sans-serif; 
+	font-weight:700;
+	margin:0.6rem 0rem 1.3rem;
+	line-height: 1rem;
+}
+
+.link-list {
+	float: left;
+	list-style: none;
+	margin: 0;
+  	padding: 0;
+}
+
+.link-list a {
+	color:rgba(255, 255, 255, 0.63);	
+}
+
+.link-list a:hover{
+	color:#fdd428;
+	text-decoration: none;
+}
+
+#sub-footer {
+	margin-top:1.3rem;
+	padding:1.9rem;
+
+}
+
+#sub-footer p{
+	color:rgba(255, 255, 255, 0.63);
+	font-family:"Open Sans", Arial, sans-serif;
+	font-size:0.8rem;
+}
+
+#sub-footer a{
+	color:white;
+	text-decoration:none;
+}
+
+#sub-footer a:hover {
+	color:#fdd428;
+}
+
+.social {
+	float: right;
+	list-style:none;
+	margin:0;
+}
+
+.social li {
+	display:inline-block;
+	margin: 0 0.3rem;
+    border: 0.06rem solid #FFEB3B;
+    padding: 0.3rem 0 0;
+    width: 2rem;
+    text-align: center;
+    height: 2rem;
+}
+
+.social i{
+	color:white;
+}
+
+/*End footer*/
+
+/*media*/
+
+@media (max-width: 767px) {
+
+.carousel-caption h1{
+	margin-top: -9.5rem;
+	font-size: 3.5rem;
+}
+
+.carousel-caption p{
+	margin-top: -5.5rem;
+	font-size: 1.2rem;
+}
+
+.social {
+	float: left;
+}
+}
+
+@media (max-width: 575px) {
+
+.carousel-caption h1 {
+	margin-top: -7.5rem;
+	font-size: 2.9rem;
+}
+
+.carousel-caption p{
+margin-top: -4rem;
+font-size: 1rem;
+}
+}
